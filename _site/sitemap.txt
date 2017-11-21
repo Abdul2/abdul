@@ -1,0 +1,8 @@
+
+/404
+/archive
+/atom.xml
+/
+/rss.xml
+/sitemap.txt
+/tags

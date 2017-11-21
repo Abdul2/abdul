@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Abhishek Nagekar's Blog</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2017-11-21T08:37:50+00:00</updated>
+ <id></id>
+ <author>
+   <name>Abdul Abdi</name>
+   <email>abdulrashid2@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
